@@ -13,5 +13,5 @@
         "getkirby/composer-installer": "^1.1",
         "getkirby/cms": ">=3.6"
     },
-    "version": "0.2.2"
+    "version": "0.2.3"
 }
